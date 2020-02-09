@@ -1,0 +1,28 @@
+Report1: Traffic Vehicle Counts:07/02/2019 16:59:31
+Motor Bikes: 23Cars: 74Vans: 53Lorry: 31,Motor Bikes: 23Cars: 74Vans: 53Lorry: 31
+Report1: Traffic Vehicle Counts:07/02/2019 17:00:54
+Motor Bikes: 23Cars: 74Vans: 53Lorry: 31, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:07/02/2019 17:23:17
+Motor Bikes: 23Cars: 74Vans: 53Lorry: 31, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:07/02/2019 17:23:34
+Motor Bikes: 23Cars: 74Vans: 53Lorry: 31, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 11:45:07 AM
+Motor Bikes: 23Cars: 74Vans: 53Lorry: 31, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 12:22:11 PM
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 1:53:18 PM
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 1:56:29 PM
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 1:56:51 PM
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:2/11/2019 2:44:17 PM
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:15/12/2019 17:16:41
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:12/01/2020 19:06:41
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:09/02/2020 16:59:32
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
+Report1: Traffic Vehicle Counts:09/02/2020 16:59:43
+Motor Bikes: 17Cars: 68Vans: 59Lorry: 37, Total vehicle flow on that day: 181
